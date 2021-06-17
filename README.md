@@ -6,3 +6,16 @@ SPA(Single Page Application)를 위한 Vue Router를 구성해 Hash 기반의 �
 OMDb API를 활용해 실제 영화 정보를 검색하고 출력할 수 있습니다.
 
 https://goofy-ride-8a651a.netlify.app
+
+Specs
+Vue3
+Vuex
+Vue-Router
+Webpack
+OMDb API
+Netlify
+Hosting with GitHub(Continuous Deployment)
+Functions(Serverless)
+Axios
+Lodash
+
