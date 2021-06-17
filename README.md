@@ -7,15 +7,16 @@ OMDb API를 활용해 실제 영화 정보를 검색하고 출력할 수 있습�
 
 https://goofy-ride-8a651a.netlify.app
 
-Specs
-Vue3
-Vuex
-Vue-Router
-Webpack
-OMDb API
-Netlify
-Hosting with GitHub(Continuous Deployment)
-Functions(Serverless)
-Axios
+<h2>Specs</h2>
+
+Vue3<br>
+Vuex<br>
+Vue-Router<br>
+Webpack<br>
+OMDb API<br>
+Netlify<br>
+Hosting with GitHub(Continuous Deployment)<br>
+Functions(Serverless)<br>
+Axios<br>
 Lodash
 
